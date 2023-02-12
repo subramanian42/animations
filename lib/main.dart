@@ -1,7 +1,5 @@
 //import 'package:animations/animations1.dart';
 //import 'package:animations/animations1.dart';
-//import 'package:animations/animations2.dart';
-import 'package:animations/animations2.dart';
 import 'package:animations/custom%20paint/temperature_control.dart';
 import 'package:flutter/material.dart';
 
